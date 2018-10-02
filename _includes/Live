@@ -1,0 +1,13 @@
+    <!-- Live Section -->
+    <section id="live" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Live</h2>
+                <p>Adam is currently writing new songs and building his show at open mics around town.
+                <br>Keep an eye on the schedule below for the latest planned appearances.</p>
+                
+                <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=200&amp;wkst=1&amp;bgcolor=%23999999&amp;src=adamatlastmusic%40gmail.com&amp;color=%23333333&amp;ctz=America%2FDetroit" style="border:solid 1px #777" width="400" height="200" frameborder="0" scrolling="no"></iframe>
+                
+            </div>
+        </div>
+    </section>
