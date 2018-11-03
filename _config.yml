@@ -20,6 +20,10 @@ social:
     url: https://soundcloud.com/adam-at-last/
   - title: facebook
     url: https://www.facebook.com/AdamAtLastMusic/
+  - title: twitter
+    url: https://twitter.com/AdamAtLast
+  - title: instagram
+    url: https://www.instagram.com/AdamAtLast/
   - title: youtube
     url: https://www.youtube.com/channel/UCrROyP3Xv7URZukyQBZTlvw
 # Build settings
